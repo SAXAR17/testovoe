@@ -1,0 +1,23 @@
+.span {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 25px;
+    color: #222222;
+    margin-left: 18px;
+}
+
+.back {
+    position: relative;
+    top: 600px;
+}
+
+.subtitle {
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.title {
+    font-size: 26px;
+    line-height: 32px;
+}
